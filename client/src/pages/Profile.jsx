@@ -35,7 +35,7 @@ export default function Profile() {
                 console.log(token);
 
                 if (res.status === 401) {
-                    notify("Your account has been deleted.", "error")
+                    notify("Please register or login first", "error")
                     logout();
                     return;
                 }
