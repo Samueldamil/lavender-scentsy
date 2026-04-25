@@ -26,7 +26,7 @@ export default function Contact() {
                         <p>Reach out to us anytime. Our team is always ready to assist you with your fragrance needs.</p>
 
                         <ul>
-                            <li><FaPhoneAlt className="contact-info-icon" />: <span>+234 816 216 6574</span></li>
+                            <li><FaPhoneAlt className="contact-info-icon" />: <span>+234 812 345 6789</span></li>
                             <li><FaEnvelope className="contact-info-icon" />: <span>example@gmail.com</span></li>
                             <li><FaMapMarkedAlt className="contact-info-icon" />: <span>Nigeria</span></li>
                             <li><FaClock className="contact-info-icon" />: <span>Mon - Sat (9:00 AM - 6:00PM)</span></li>

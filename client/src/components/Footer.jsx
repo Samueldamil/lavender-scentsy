@@ -40,7 +40,7 @@ export default function Footer() {
                 <div className="contact-footer-section">
                     <h3>Contact Us</h3>
                     <ul className="footer-lists contact-lists">
-                        <li><FaPhone className="footer-icon"/>: +234 816 216 6574</li>
+                        <li><FaPhone className="footer-icon"/>: +234 812 345 6789</li>
                         <li><MdEmail className="footer-icon"/>: example@gmail.com</li>
                         <li><FaLocationDot className="footer-icon"/>: Lagos, Nigeria</li>
                     </ul>

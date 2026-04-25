@@ -6,7 +6,7 @@ import Floral from "../assets/floral-perfume.jpg";
 import Oriental from "../assets/oriental-perfume.jpg";
 import Fresh from "../assets/fresh-perfume.jpeg";
 import Woody from "../assets/woody-perfume.jpeg";
-import Founder from "../assets/the-founder.jpg";
+import Founder from "../assets/default-user-img.jpeg";
 import { useFadeAnimations } from "../hooks/useFadeAnimation";
 
 export default function About() {
@@ -150,20 +150,20 @@ export default function About() {
                         </div>
 
                         <div className="founder-text">
-                            <h3>Priscillia Adegoke</h3>
-                            <i>Founder & Barrister of the Supreme Court of Nigeria</i>
+                            <h3>John Doe</h3>
+                            <i>CEO of Lavender Scentsy & Barrister of the Supreme Court of Nigeria</i>
                             <p>
-                                Our founder, Priscillia Adegoke, is a qualified barrister of the Supreme Court of Nigeria with a strong passion for excellence, integrity and attention to details.
-                                With a background in law, Priscillia brings a unique perspective to the perfume business - one rooted in trust transparency, and ethical standards.
+                                Our founder, John Doe, is a qualified barrister of the Supreme Court of Nigeria with a strong passion for excellence, integrity and attention to details.
+                                With a background in law, John brings a unique perspective to the perfume business - one rooted in trust transparency, and ethical standards.
                             </p>
 
                             <p>
-                                While practicing law, Priscillia identified a growing need for reliable access to authentic perfumes in Nigeria.
+                                While practicing law, John identified a growing need for reliable access to authentic perfumes in Nigeria.
                                 This inspired the creation of a fragrance store built on credibility, careful curation, and customer confidence.
                             </p>
 
                             <p>
-                                Combining legal expertise with a love for fine fragrances, Priscillia ensures that every aspect of the business - from sourcing to custmer service - operates with professionalism, accountability, and respect for the customer.
+                                Combining legal expertise with a love for fine fragrances, John ensures that every aspect of the business - from sourcing to custmer service - operates with professionalism, accountability, and respect for the customer.
                             </p>
                         </div>
                     </div>
