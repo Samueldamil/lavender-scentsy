@@ -537,7 +537,7 @@ html, body, #root {
 }
 
 .hero-section {
-    background: url('./assets/perfume-background.png') center/cover no-repeat;
+    background: url('./assets/perfume-background.webp') center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -655,7 +655,7 @@ html, body, #root {
 }
 
 .category-link-1 {
-    background: url('./assets/unisex-perfume.jpg') center/cover no-repeat;
+    background: url('./assets/unisex-perfume.webp') center/cover no-repeat;
     width: 230px;
     height: 230px;
     border-radius: 20px;
@@ -667,7 +667,7 @@ html, body, #root {
 }
 
 .category-link-2 {
-    background: url('./assets/male-perfume.jpg') center/cover no-repeat;
+    background: url('./assets/male-perfume.webp') center/cover no-repeat;
     width: 230px;
     height: 230px;
     border-radius: 20px;
@@ -679,7 +679,7 @@ html, body, #root {
 }
 
 .category-link-3 {
-    background: url('./assets/female-perfume.jpg') center/cover no-repeat;
+    background: url('./assets/female-perfume.webp') center/cover no-repeat;
     width: 230px;
     height: 230px;
     border-radius: 20px;
@@ -691,7 +691,7 @@ html, body, #root {
 }
 
 .category-link-4 {
-    background: url('./assets/kids-perfume.jpg') center/cover no-repeat;
+    background: url('./assets/kids-perfume.webp') center/cover no-repeat;
     width: 230px;
     height: 230px;
     border-radius: 20px;
