@@ -105,7 +105,7 @@ This project was built as part of my journey in becoming a full-stack developer.
 ## Demo Videos
 
 ### Client - Live Website
-Coming soon...
+[Visit Site](https://lavender-scentsy.netlify.app/)
 
 ### Admin Dashboard
 [Watch Admin Demo](https://res.cloudinary.com/db7s2ndv3/video/upload/v1776199767/admin-preview_wj0ci2.mp4)
